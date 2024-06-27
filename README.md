@@ -25,6 +25,3 @@ You are encouraged to contribute to this repository by adding your own mini proj
 4. Push to the branch (`git push origin enhancement/YourAdditionName`).
 5. Submit a Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
