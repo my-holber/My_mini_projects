@@ -16,3 +16,20 @@ This project is a simple Python script that fetches detailed information about a
 
 ```bash
 pip install requests
+
+
+## example
+
+```
+Введите IP адрес: 8.8.8.8
+Страна: United States
+Код страны: US
+Регион: California
+Город: Mountain View
+почтовый индекс: 94035
+широта: 37.386
+Долгота: -122.0838
+часовой пояс: America/Los_Angeles
+Провайдер: Google LLC
+
+```
